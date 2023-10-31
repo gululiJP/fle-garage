@@ -23,9 +23,6 @@
 |  22  |  669  |  HW Parking  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168471814742233159/file.png)  |
 |  23  |  502  |  realestate Grarege  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168472281924767744/file.png)  |
 |  24  |  596  |  Fes Garage  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168473155992571914/file.png)  |
-|  25  |  mapの番地  |  Garageの名前  |  ![]()  |
 |  26  |  575  |  North Vinewood Bivd  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168472804237258802/file.png)  |
-|  27  |  mapの番地  |  Garageの名前  |  ![]()  |
-|  28  |  mapの番地  |  Garageの名前  |  ![]()  |
 
 

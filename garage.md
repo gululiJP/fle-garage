@@ -24,5 +24,8 @@
 |  23  |  502  |  realestate Grarege  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168472281924767744/file.png)  |
 |  24  |  596  |  Fes Garage  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168473155992571914/file.png)  |
 |  26  |  575  |  North Vinewood Bivd  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1168472804237258802/file.png)  |
+|  27  |  333  |  burgershot  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1169551478176882688/file.png)  |
+|  28  |  373  |  CatCafe Garages  |  ![](https://cdn.discordapp.com/attachments/1159767551748886628/1169552459757277255/file.png)  |
+
 
 
